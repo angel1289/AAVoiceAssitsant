@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AA-POC</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://voiceassistant.com/.well-known/assetlinks.json\" }]</string>
+</resources>
